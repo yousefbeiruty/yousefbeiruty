@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Beiruty</h1>
-<h3 align="center">Experienced Android engineer seeking employment .bring more than 4 years of work experience seek challenging opportunities where I can fully use my skills for the success of the organization.ionate frontend developer from India</h3>
+<h3 align="center">Experienced Android engineer seeking employment .bring more than 4 years of work experience seek challenging opportunities where I can fully use my skills for the success of the organization.</h3>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefbeiruty&label=Profile%20views&color=0e75b6&style=flat" alt="yousefbeiruty" /> </p>
