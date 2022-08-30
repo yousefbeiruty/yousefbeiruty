@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefbeiruty&label=Profile%20views&color=0e75b6&style=flat" alt="yousefbeiruty" /> </p>
 
-- 🔭 I’m currently working on Ecomerce App [NUMNY](https://play.google.com/store/apps/details?id=numny.activity)
+- 🔭 I’m currently working on Ecomerce App [Mall of The Emirates (MOE)](https://play.google.com/store/apps/details?id=com.belongi.moe)
 
 - 🌱 I’m currently learning and improving my skills in problem solving *DSA*
 
