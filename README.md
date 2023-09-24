@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Beiruty</h1>
-<h3 align="center">Experienced Android engineer seeking employment .bring more than 5 years of work experience seek challenging opportunities where I can fully use my skills for the success of the organization.</h3>
+<h3 align="center">Experienced Android Engineer with over 5 years of industry expertise, passionate about creating innovative mobile applications. Proficient in Java and Kotlin, I possess a strong understanding of Android architecture, design patterns, and best practices. Skilled in developing user-friendly interfaces, optimizing app performance, and integrating APIs. Committed to delivering high-quality code and continuously expanding my knowledge in the ever-evolving world of Android development. Let's connect and collaborate on building impactful mobile experiences.</h3>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefbeiruty&label=Profile%20views&color=0e75b6&style=flat" alt="yousefbeiruty" /> </p>
